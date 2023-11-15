@@ -1,6 +1,7 @@
 <div align = "center">
 
   <p>Hi, welcome to my profile, you can see my social media below</p>
+  
     <a 
   style="background-color: lightcoral; border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
   href="https://dio.me/users/lucashenrique51513">Profile</a>
@@ -17,14 +18,11 @@
   style="background-color: rgb(243, 81, 52); border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
   href="https://www.instagram.com/dev_lucash/">Instagram</a>
 
-  <img style="margin-top: 10px;" src="./assets/lucasrender.jpg">
+  <img src="./assets/lucasrender.jpg">
 
   <p>Hello, i'm studying about technologies, i started in early of the year, and in the current day i had a lot of knowledge in front-end, but i'm working to learn fullstack, i wanna upgrade myself about more of this.
 Hello, i'm studying about technologies, i started in early of the year, and in the current day i had a lot of knowledge in front-end, but i'm working to learn fullstack, i wanna upgrade myself about more of this.
 </p>
-
-  
- 
 </div>
 
 
