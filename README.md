@@ -1,49 +1,45 @@
-<div align = "center">
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+24228
+Fork on GitHub
+8343
 
-  <p>Hi, welcome to my profile, you can see my social media below</p>
-  <a style="background-color: lightcoral; border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
-  href="https://dio.me/users/lucashenrique51513">Profile</a>
-  <a 
-  style="background-color: lightsalmon; border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
-  href="mailto:devlucash.2023@gmail.com">Email</a>
-  <a 
-  style="background-color: lightblue; border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
-  href="https://www.linkedin.com/in/devlucash">Linkedin</a>
-  <a 
-  style="background-color: rgb(87, 52, 243); border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
-  href="https://github.com/lcshenry">Github</a>
-  <a 
-  style="background-color: rgb(243, 81, 52); border-radius: 99px; padding: 5px; text-decoration: none; color: black; font-family: sans-serif; font-weight: bold; font-size: 15px;"
-  href="https://www.instagram.com/dev_lucash/">Instagram</a>
-  <img style="margin-top: 10px;" src="./assets/lucasrender.jpg">
+back to edit
 
-  <p>Hello, i'm studying about technologies, i started in early of the year, and in the current day i had a lot of knowledge in front-end, but i'm working to learn fullstack, i wanna upgrade myself about more of this.
-Hello, i'm studying about technologies, i started in early of the year, and in the current day i had a lot of knowledge in front-end, but i'm working to learn fullstack, i wanna upgrade myself about more of this.
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Olá 👋, Eu sou Lucas Henrique</h1>
+<h3 align="center">Estudante de Engenharia de Software na Universidade Estacio de Sá.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lcshenry&label=Profile%20views&color=0e75b6&style=flat" alt="lcshenry" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcshenry" alt="lcshenry" /></a> </p>
+
+- 🌱 I’m currently learning **Engenharia de Software**
+
+- 💬 Ask me about **Animes, documentários e tecnologia**
+
+- 📫 How to reach me **lucashenrique51513@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devlucash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devlucash" height="30" width="40" /></a>
 </p>
-</div>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lcshenry&label=Profile%20views&color=0e75b6&style=flat" alt="lcshenry" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcshenry&show_icons=true&locale=en&layout=compact" alt="lcshenry" /></p>
 
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=lcshenry&theme=darkhub&no-frame=true&row=1&column=7" alt="lcshenry" /></a> </p>
-<p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcshenry&show_icons=true&locale=en" alt="lcshenry" /></p>
 
-<table  border="0">
-<thead>
-  <tr>
-    <td rowspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcshenry&layout=donut-vertical" alt="lcshenry" />    
-    </td>
-    <td>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lcshenry&show_icons=true&locale=en&theme=ocean_dark" alt="lcshenry" /</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lcshenry&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28"   alt="lcshenry" /></p>
-    </td>
-  </tr>
-</thead>
-</table>
-</p>
